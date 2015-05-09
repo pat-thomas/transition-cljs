@@ -1,0 +1,8 @@
+#navbar ul li {
+  margin-right: 10px;
+  float: left;
+}
+
+#navbar ul li:hover {
+  cursor: pointer;
+}
