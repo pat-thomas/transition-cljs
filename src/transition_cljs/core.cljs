@@ -1,6 +1,5 @@
-(ns transition-cljs.core)
+(ns transition-cljs.core
+  (:require [transition-cljs.state :as state]))
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+(enable-console-print!)
+
